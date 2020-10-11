@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React, Angular, Node.js, Vue.js**
 - ⚡ Fun fact: **I'm Guitarrist and in a career transition. Coffee lover.**
 - 📫 How to reach me **fassis92@gmail.com** <p align="justify">
-<a href="https://linkedin.com/in/francisco-de-assis-souza-e-silva-a2a1b71b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francisco-de-assis-souza-e-silva-a2a1b71b3" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/francisco-de-assis-s-s/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francisco-de-assis-souza-e-silva-a2a1b71b3" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/14250982" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14250982" height="30" width="30" /></a>
 </p>
 
